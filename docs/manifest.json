@@ -1,0 +1,27 @@
+{
+  "name": "dc.ArlingtonCounty.parks",
+  "data": [
+    {
+      "name": "parks_catchment_scores",
+      "variables": ["all_park_tsfca", "playground_tsfca", "parking_tsfca", "basketball_tsfca", "tennis_tsfca", "grill_tsfca"],
+      "file": "va013_trbg_arlopendata_2021_parks_catchment_scores.csv.xz",
+      "size": 12068,
+      "md5": "5bed3e917542bdb33b85754fabaab63c"
+    }
+  ],
+  "distributions": {
+    "dataverse": {
+      "id": 55884,
+      "doi": "doi:10.18130/V3/GMIVZZ",
+      "server": "https://dataverse.lib.virginia.edu/",
+      "data": [
+        {
+          "file": "va013_trbg_arlopendata_2021_parks_catchment_scores.csv.xz",
+          "id": 55885,
+          "size": 12068,
+          "md5": "5bed3e917542bdb33b85754fabaab63c"
+        }
+      ]
+    }
+  }
+}

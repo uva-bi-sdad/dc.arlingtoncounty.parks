@@ -6,7 +6,7 @@
 \alias{dc.arlingtoncounty.parks-package}
 \title{dc.arlingtoncounty.parks: Social Data Commons: Environment, Land Use: Arlington County Parks Access}
 \description{
-Allows user to easily get Arlington County Parks Access data from the SDAD Data Commons.  Data can be provided directly or in a file.
+Allows user to easily get Arlington County Parks Access data from the SDAD Data Commons. Data can be provided directly or in a file.
 }
 \author{
 \strong{Maintainer}: Eric Oh \email{eo9tv@virginia.edu}
